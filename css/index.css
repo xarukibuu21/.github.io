@@ -1,0 +1,36 @@
+img {
+  width: 500px;
+}
+
+.conteiner {
+  text-align: center;
+  background-image: url(../img/Pin\ on\ Фоны.jfif);
+}
+
+.header {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  text-decoration: underline wavy;
+  font-size: 30px;
+  font-weight: bold;
+  color: rgb(67, 46, 6);
+}
+
+h2 {
+  color: rgb(67, 46, 6);
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.pin img {
+  width: 5%;
+}
+p {
+  font-size: 18px;
+  max-width: 5000px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.whatilike {
+  color: rgb(150, 18, 62);
+}
+.whatilike p:first-child {
+  color: rgb(113, 13, 100);
+  content: "\1F3C2";
+}
